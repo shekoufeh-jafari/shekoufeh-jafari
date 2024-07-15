@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m @shekwf
+👀 I’m interested in backend
+🌱 I’m currently learning php
+💞️ I’m looking to collaborate on Remote work company
+📫 How to reach me : shekoufeh.jafari.work@gmail.com
+
+
